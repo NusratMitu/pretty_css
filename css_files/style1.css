@@ -1,0 +1,38 @@
+    /* External css style*/
+    h3{
+        color: rgb(136, 3, 32);
+    }   
+    .blog{
+    background-color: rgb(243, 199, 183);
+    color: rgb(0, 0, 0);
+    border: 2px solid coral;
+    border-radius: 12px;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+    .author_name{
+    color: rgb(224, 26, 66);
+    }
+    .blog_title{
+    text-align: center;
+    font-weight: 100;
+    }
+    .blog p{
+    text-align: justify;
+    }
+    img{
+        height: 400px;
+        width: 400px; 
+        padding-bottom: 40px;
+    }
+    small{
+        display: block;
+    }
+    h2{
+        display: inline;
+    }
+
+    
